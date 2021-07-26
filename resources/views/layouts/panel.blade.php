@@ -73,7 +73,7 @@
           </div>
         </div>
         <!-- MENU NAVEGACION -->
-        @include('includes.panel.menu')
+          @include('includes.panel.menu')
       </div>
     </div>
   </nav>
